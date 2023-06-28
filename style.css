@@ -1,4 +1,7 @@
 /* INDEX */
+body {
+  background-color: lightblue;
+}
 header, section {
 padding: 1%, 5%;
 }
