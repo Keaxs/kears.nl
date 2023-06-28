@@ -7,7 +7,7 @@ text-align: center;
 }
 achtergrond {
     width: 100%
-    background url('../img/banner.jpeg');
+    background: url('../img/banner.jpeg');
     background-position: center;
 }
 h1 {
