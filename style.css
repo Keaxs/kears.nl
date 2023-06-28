@@ -1,6 +1,8 @@
 /* INDEX */
-background{
+body{
+  height: 100vh
   background-image: url('test.jpg')
+  background-size: cover;
 }
 header, section {
 padding: 1%, 5%;
