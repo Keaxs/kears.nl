@@ -5,6 +5,9 @@ padding: 1%, 5%;
 header {
 text-align: center;
 }
+body {
+  background-image: url('coding.jpg');
+}
 h1 {
 font-family: 'Montserrat',sans-serif;
 font-weight: bold;
