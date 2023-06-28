@@ -7,7 +7,7 @@ text-align: center;
 }
 achtergrond {
     width: 100%
-    background: url(/img/img/coding.jpg);
+    background-image: url('../img/coding.jpg')
     background-size: cover;
     background-position: center;
 }
