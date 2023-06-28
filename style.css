@@ -1,7 +1,6 @@
 /* INDEX */
 body{
   background-image: url('test.jpg')
-  background-size: cover;
   height: 100vh
 }
 header, section {
