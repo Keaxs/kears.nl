@@ -47,7 +47,6 @@ font-size: 15px;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 200px;
 }
 button:hover a{
 text-decoration: none;
