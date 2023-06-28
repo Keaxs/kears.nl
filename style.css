@@ -1,20 +1,6 @@
 /* INDEX */
 background{
-  position: absolute;
-  top: 0px;
-  z-index: -1;
-  height: 0px;
-  width: 100%;
-  overflow: hidden;
-  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
-  --tw-gradient-from: #121414;
-  --tw-gradient-to: rgb(18 20 20 / 0);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-  --tw-gradient-to: rgb(18 20 20 / 0.8);
-  padding-top: 50%;
-  --tw-blur: blur(12px);
-  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-  background: linear-gradient(0deg, #121414, #121414, rgb(18, 20, 20, 0.85)), url("img/coding.jpg");
+  background-image: url('/img/coding.jpg')
 }
 header, section {
 padding: 1%, 5%;
