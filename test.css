@@ -5,11 +5,6 @@ padding: 1%, 5%;
 header {
 text-align: center;
 }
-achtergrond {
-    width: 100%
-    background: url('../img/banner.jpeg')
-    background-position: center;
-}
 h1 {
 font-family: 'Montserrat',sans-serif;
 font-weight: bold;
