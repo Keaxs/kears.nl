@@ -15,9 +15,7 @@ font-weight: bold;
 color: rgb(255, 255, 255);
 font-size: 30px;
 line-height: 1;
-position: absolute;
-top: 30%;
-left: 36.5%;
+text-align: center;
 }
 p1 {
 font-family: 'Montserrat',sans-serif;
