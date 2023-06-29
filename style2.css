@@ -1,4 +1,8 @@
 /* PORTFOLIO */
+body{
+  background-image: url('coding.jpg');
+  height: 100vh
+}
 header, section {
     padding: 1%, 5%;
     }
