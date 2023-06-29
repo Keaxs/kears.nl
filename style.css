@@ -1,8 +1,7 @@
 /* INDEX */
 body{
-  background-image: url('test.jpg');
+  background-image: url('coding.jpg');
   height: 100vh
-  background-size: center;
 }
 header, section {
 padding: 1%, 5%;
