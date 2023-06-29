@@ -2,6 +2,7 @@
 body{
   background-image: url('test.jpg');
   height: 100vh
+  background-size: center;
 }
 header, section {
 padding: 1%, 5%;
