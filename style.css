@@ -45,9 +45,7 @@ color: rgb(255, 255, 255);
 padding: 15px 40px;
 text-align: center;
 font-size: 15px;
-display: flex;
-justify-content: center;
-align-items: center;
+position: fixed; left:685px; top:510px;
 }
 button:hover a{
 text-decoration: none;
